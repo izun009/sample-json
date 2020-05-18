@@ -1,4 +1,4 @@
-{
+[
     "posts":[
             {
                 "id": "1",
@@ -61,7 +61,7 @@
                 "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sodales velit eu ante cursus, sagittis."
             }
         ]
-}
+]
 
 
 
