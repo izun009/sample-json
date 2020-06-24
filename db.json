@@ -4,7 +4,10 @@
                 "id": "1",
                 "userId": "001",
                 "title": "Apple",
-                "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sodales velit eu ante cursus, sagittis."
+                "body": ["Lorem ipsum dolor sit amet 1",
+                         "Lorem ipsum dolor sit amet 2",
+                         "Lorem ipsum dolor sit amet 3"
+                        ]
             },
             {
                 "id": "2",
